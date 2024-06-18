@@ -1,2 +1,3 @@
-# One-to-One-chat-Application
-Developed a chatting application using java along with a friend
+# 1To1_Chat_Application
+1To1_Chat_Application
+Using javax.swing & java.net
